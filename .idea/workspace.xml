@@ -31,7 +31,6 @@
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/sass.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/sass.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/utils/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1613066023955" duration="2533000" />
       <workItem from="1613726557431" duration="182000" />
       <workItem from="1614114165803" duration="3552000" />
-      <workItem from="1614269756678" duration="882000" />
+      <workItem from="1614269756678" duration="1744000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1614115792144</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614270371591</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mise en page maquette : logo">
+      <created>1614270669759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614270669759</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +166,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="police" />
     <MESSAGE value="mise en page maquette accueil1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mise en page maquette accueil1" />
+    <MESSAGE value="mise en page maquette : logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise en page maquette : logo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614117270348">

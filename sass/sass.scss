@@ -23,18 +23,25 @@ p{
 .logo {
   font-family: $logo;
   text-align: center;
-  color: black;
+  color: $text-color-1;
 }
 
 .local {
   display: flex;
   justify-content: center;
   padding: 1.25rem 1rem;
-  background-color: #f3f3f3;
+  background-color: #eaeaea;
   font-size: 1.2rem;
   position: relative;
 }
 
 .icone-noire {
-  color:black;
+  color:$text-color-2;
+  margin-right: 1rem;
+}
+
+.recherche {
+  font-family: $police;
+  font-size: 1rem;
+  color:$text-color-2;
 }

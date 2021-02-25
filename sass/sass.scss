@@ -12,7 +12,13 @@ body {
 
 body {
   color:$background-color;
-  font-family: Roboto, sans-serif;
+  font-family: $police;
   font-size: 1rem;
+}
+
+.logo {
+  font-family: $logo;
+  text-align: center;
+  color: black;
 }
 

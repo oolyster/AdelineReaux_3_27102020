@@ -10,4 +10,10 @@ body {
   font-size: 1rem;
 }
 
+.logo {
+  font-family: Shrikhand, "cursive";
+  text-align: center;
+  color: black;
+}
+
 /*# sourceMappingURL=style.css.map */

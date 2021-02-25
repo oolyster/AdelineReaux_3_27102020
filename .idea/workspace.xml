@@ -31,7 +31,6 @@
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/sass.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/sass.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/utils/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1613066023955" duration="2533000" />
       <workItem from="1613726557431" duration="182000" />
       <workItem from="1614114165803" duration="3552000" />
-      <workItem from="1614269756678" duration="2093000" />
+      <workItem from="1614269756678" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1614115792144</created>
@@ -140,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614275359173</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mise en page maquette : recherche v2">
+      <created>1614275624642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614275624642</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +182,8 @@
     <MESSAGE value="mise en page maquette accueil1" />
     <MESSAGE value="mise en page maquette : logo" />
     <MESSAGE value="mise en page maquette : recherche v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mise en page maquette : recherche v1" />
+    <MESSAGE value="mise en page maquette : recherche v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise en page maquette : recherche v2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614117270348">
@@ -191,10 +198,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1091" y="443" key="Github.UntrackedFilesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1614115426123" />
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1614116423114">
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1614275651169">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1614116423114" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1614275651169" />
     <state x="1010" y="650" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1614114649803">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

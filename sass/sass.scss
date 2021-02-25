@@ -17,7 +17,21 @@ body {
 p{
   font-family: $police;
   font-size: 1rem;
-  color:black;
+  color:$text-color-1;
+}
+
+p.light {
+  font-weight: 300;
+}
+
+.center{
+  text-align: center;
+}
+
+h1{
+  font-family: $police;
+  font-size: 1.5rem;
+  color:$text-color-1;
 }
 
 .logo {
@@ -33,6 +47,7 @@ p{
   background-color: #eaeaea;
   font-size: 1.2rem;
   position: relative;
+  box-shadow: 1px 10px 4px -5px rgba(125,125,125,0.75) inset;
 }
 
 .icone-noire {

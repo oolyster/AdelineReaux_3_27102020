@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:layout" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61471f69-a579-403c-8410-d4e8b315b39d" name="Default Changelist" comment="" />
+    <list default="true" id="61471f69-a579-403c-8410-d4e8b315b39d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ohmyfood.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/sass.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/sass.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/utils/_variables.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +55,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1o4jsLtZ4NKX7PmLfvsoXMtnv5L" />
@@ -59,14 +100,62 @@
       <workItem from="1612552964199" duration="472000" />
       <workItem from="1613066023955" duration="2533000" />
       <workItem from="1613726557431" duration="182000" />
-      <workItem from="1614114165803" duration="1273000" />
+      <workItem from="1614114165803" duration="3552000" />
+      <workItem from="1614269756678" duration="267000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1614115792144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614115792144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1614116421250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614116421250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="layout" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614117270348">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1614117270348" />
     <state x="1151" y="635" key="Github.ShareDialog" timestamp="1614115416568">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -75,6 +164,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1091" y="443" key="Github.UntrackedFilesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1614115426123" />
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2" timestamp="1614116423114">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1614116423114" />
     <state x="1010" y="650" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1614114649803">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

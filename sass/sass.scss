@@ -1,0 +1,18 @@
+//UTILS
+@import "./utils/_variables.scss";
+
+//à supprimer, uniquement pour prévis
+body {
+  width:375px;
+  margin: auto;
+}
+
+//mise en forme
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Shrikhand&display=swap');
+
+body {
+  color:$background-color;
+  font-family: Roboto, sans-serif;
+  font-size: 1rem;
+}
+

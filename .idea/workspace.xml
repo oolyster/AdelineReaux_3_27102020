@@ -28,6 +28,11 @@
     <list default="true" id="61471f69-a579-403c-8410-d4e8b315b39d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/_fontawesome/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_fontawesome/attribution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/jay-wennington-N_Y88TWmGwA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/stil-u2Lp8tXIcjw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/toa-heftiba-DQKerTsQwi0-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
@@ -80,6 +85,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
       <recent name="$PROJECT_DIR$/_fontawesome" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
@@ -100,7 +106,7 @@
       <workItem from="1614114165803" duration="3552000" />
       <workItem from="1614269756678" duration="5952000" />
       <workItem from="1614692921817" duration="300000" />
-      <workItem from="1614804861913" duration="3097000" />
+      <workItem from="1614804861913" duration="6211000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1614115792144</created>
@@ -179,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614807514999</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="footer v1">
+      <created>1614808320141</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614808320141</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +233,8 @@
     <MESSAGE value="mise en page maquette : explorer v2" />
     <MESSAGE value="bouton gradient" />
     <MESSAGE value="footer v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer v1" />
+    <MESSAGE value="cartes resto" />
+    <option name="LAST_COMMIT_MESSAGE" value="cartes resto" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614117270348">

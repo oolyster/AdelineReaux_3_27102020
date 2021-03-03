@@ -106,15 +106,55 @@ h1 {
   /* 16:9 Aspect Ratio */
 }
 
-.text-resto {
+.card {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  position: relative;
+  margin: 5%;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.52);
+}
+.card__link {
+  text-decoration: none;
+}
+.card__img {
+  height: 10rem;
+  width: 100%;
+  border: transparent solid 0;
+  border-radius: 1rem 1rem 0 0;
+  box-shadow: none;
+  object-fit: cover;
+}
+.card__badge {
+  background-color: #9ae2d0;
+  color: #018766;
+  padding: 0.5rem;
+  border-radius: 0.125rem;
   position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  text-align: center;
-  font-size: 20px;
-  color: white;
+  top: 1rem;
+  right: 0.75rem;
+}
+.card__text {
+  padding: 1rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.card__content {
+  flex: 1;
+}
+.card__title {
+  margin: 0;
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+.card__subtitle {
+  margin: 0;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+.card__like {
+  color: black;
 }
 
 body {

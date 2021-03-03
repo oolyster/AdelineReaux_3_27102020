@@ -1,6 +1,9 @@
 //UTILS
 @import "./utils/_variables.scss";
 
+//COMPONENTS
+@import "./components/btn.scss";
+
 //à supprimer, uniquement pour prévis
 body {
   width:375px;
@@ -70,14 +73,3 @@ h1{
   align-content: center;
 }
 
-.gradient-btn {
-  text-align: center;
-  border: 0;
-  padding: .75rem 1.5rem;
-  font-weight: 300;
-  font-size: 1.1rem;
-  border-radius: 100px;
-  color: $background-color;
-  background: linear-gradient($primary-color, $primary-fade);
-  box-shadow: 0.25rem 0.25rem 10px rgb(0 0 0 / 25%);
-}

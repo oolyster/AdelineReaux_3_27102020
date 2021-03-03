@@ -1,0 +1,51 @@
+body {
+  color:$background-color;
+}
+
+p, a{
+  font-family: $police;
+  font-size: 1rem;
+  color:$text-color-1;
+  font-weight: 400;
+}
+
+p.light {
+  font-weight: 300;
+}
+
+.center{
+  text-align: center;
+}
+
+h1{
+  font-family: $police;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color:$text-color-1;
+}
+
+.logo {
+  font-family: $logo;
+  text-align: center;
+  color: $text-color-1;
+}
+
+.footer {
+  background-color: $text-color-2;
+  padding:20px;
+  text-align: left;
+}
+
+.logo-footer {
+  font-family: $logo;
+  font-size: 1rem;
+  color: $background-color;
+}
+
+.txt-footer {
+  font-family: $police;
+  font-size: 1rem;
+  color:$background-color;
+  font-weight: 300;
+  line-height: 2rem;
+}

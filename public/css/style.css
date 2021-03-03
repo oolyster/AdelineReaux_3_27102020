@@ -19,11 +19,6 @@
 }
 
 body {
-  width: 375px;
-  margin: auto;
-}
-
-body {
   color: #ffffff;
 }
 
@@ -55,6 +50,26 @@ h1 {
   color: black;
 }
 
+.footer {
+  background-color: #353535;
+  padding: 20px;
+  text-align: left;
+}
+
+.logo-footer {
+  font-family: Shrikhand, "cursive";
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+.txt-footer {
+  font-family: Roboto, sans-serif;
+  font-size: 1rem;
+  color: #ffffff;
+  font-weight: 300;
+  line-height: 2rem;
+}
+
 .local {
   display: flex;
   justify-content: center;
@@ -81,6 +96,11 @@ h1 {
   flex-direction: column;
   padding: 1rem;
   align-content: center;
+}
+
+body {
+  width: 375px;
+  margin: auto;
 }
 
 /*# sourceMappingURL=style.css.map */

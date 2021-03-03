@@ -1,0 +1,27 @@
+.local {
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 1rem;
+  background-color: #eaeaea;
+  font-size: 1.2rem;
+  position: relative;
+  box-shadow: 1px 10px 4px -5px rgba(125,125,125,0.75) inset;
+}
+
+.icone-noire {
+  color:$text-color-2;
+  margin-right: 1rem;
+}
+
+.recherche {
+  font-family: $police;
+  font-size: 1rem;
+  color:$text-color-2;
+}
+
+.explore {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  align-content: center;
+}

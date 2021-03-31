@@ -103,7 +103,7 @@
       <workItem from="1614692921817" duration="300000" />
       <workItem from="1614804861913" duration="8376000" />
       <workItem from="1615189450276" duration="11000" />
-      <workItem from="1616699036683" duration="10435000" />
+      <workItem from="1616699036683" duration="11582000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1614115792144</created>
@@ -224,7 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617222954432</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Restaurant v1">
+      <created>1617224517900</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617224517900</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Restaurant v1">
+      <created>1617224540150</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1617224540150</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +283,9 @@
     <MESSAGE value="Fonctionnement v1" />
     <MESSAGE value="Fonctionnement v2" />
     <MESSAGE value="Fonctionnement v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctionnement v3" />
+    <MESSAGE value="Restaurant v1" />
+    <MESSAGE value="Restaurant v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restaurant v2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614117270348">

@@ -21,7 +21,6 @@
 body {
   color: #ffffff;
   font-family: Roboto, sans-serif;
-  color: black;
 }
 
 p, a {
@@ -52,6 +51,7 @@ h2 {
   font-size: 1.2rem;
   color: black;
   text-transform: uppercase;
+  margin-block-end: 0.2rem;
 }
 
 .logo {
@@ -215,19 +215,27 @@ h2 {
 
 .plat {
   padding: 2rem 1rem;
+  margin: 0;
   display: block;
   background-color: #f6f6f6;
+}
+.plat__hr {
+  border: 1px solid #9ae2d0;
+  max-width: 3rem;
+  margin: 0;
+  line-height: 0;
 }
 .plat__elements {
   display: flex;
   flex-direction: column;
+  padding: 0;
 }
 .plat__element {
   background-color: #ffffff;
   border-radius: 1rem;
   position: relative;
-  margin: 1rem 0 0 1rem;
-  padding: 1.5rem;
+  margin: 1rem 0 0 0;
+  padding: 1rem;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
   font-family: Roboto, sans-serif;
   font-size: 1rem;

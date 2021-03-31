@@ -1,19 +1,28 @@
 .plat {
   padding: 2rem 1rem;
+  margin: 0;
   display: block;
   background-color: $background-fade;
+
+  &__hr {
+    border: 1px solid $accent-color;
+    max-width: 3rem;
+    margin:0;
+    line-height: 0;
+  }
 
   &__elements {
     display: flex;
     flex-direction: column;
+    padding: 0;
   }
 
   &__element {
     background-color: $background-color;
     border-radius: 1rem;
     position: relative;
-    margin: 1rem 0 0 1rem;
-    padding: 1.5rem;
+    margin: 1rem 0 0 0;
+    padding: 1rem;
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.20);
     font-family: $police;
     font-size: 1rem;

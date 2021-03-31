@@ -104,14 +104,14 @@ h1 {
 }
 .tutorial__elements {
   display: flex;
+  flex-direction: column;
 }
 .tutorial__element {
   background-color: #f6f6f6;
-  width: 100vw;
   border-radius: 1rem;
   position: relative;
-  margin: 0 0 0 1rem;
-  padding: 2rem;
+  margin: 1rem 0 0 1rem;
+  padding: 1.5rem;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.52);
   font-family: Roboto, sans-serif;
   font-size: 1rem;
@@ -120,49 +120,24 @@ h1 {
 }
 .tutorial__count {
   background-color: #9356dc;
-  width: 2vw;
-  border-radius: 1rem;
-  position: relative;
+  border-radius: 50%;
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: -1rem;
+  margin: auto 0;
   padding: 0.5rem;
   font-family: Roboto, sans-serif;
   font-size: 1rem;
   color: #ffffff;
   font-weight: 400;
+  text-align: center;
 }
 .tutorial__title {
   margin-top: 0;
 }
-.tutorial__steps {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  counter-reset: compteListe;
-}
-.tutorial__step {
-  padding: 1.5rem;
-  margin: 1rem 0 1rem 0.75rem;
-  box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.125);
-  border-radius: 1.25rem;
-  background-color: #f6f6f6;
-  display: flex;
-  position: relative;
-}
-.tutorial__step:before {
-  counter-increment: compteListe 1;
-  content: counter(compteListe) " ";
-  background: #9356dc;
-  height: 1.5rem;
-  width: 1.5rem;
-  border-radius: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  position: absolute;
-  left: 0rem;
-}
 .tutorial__icon {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
   color: #7e7e7e;
 }
 

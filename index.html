@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Ohmyfood</title>
     <link href="_fontawesome/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="public/css/style.css">
+    <meta name="description" content="Ohmyfood">
+    <link rel="stylesheet" href="css/style.css">
 </head>
     <body>
         <header>
@@ -25,11 +28,13 @@
                 </div>
             </section>
         <!--fonctionnement-->
-            <section>
-                <h1>Fonctionnement</h1>
-                <img src="maquette/Accueil-0-3-0-1.png" alt="maquette"/>
-                <img src="maquette/Accueil-0-3-0-2.png" alt="maquette"/>
-                <img src="maquette/Accueil-0-3-0-3.png" alt="maquette"/>
+            <section class="tutorial">
+                    <h1 class="tutorial__title">Fonctionnement</h1>
+                    <ol class="tutorial__steps">
+                        <li class="tutorial__step"><i class="fa-mobile-alt fas tutorial__icon"></i><p>Choisissez un restaurant</p></li>
+                        <li class="tutorial__step"><i class="fa-list-ul fas tutorial__icon" aria-hidden="true"></i><p>Composez votre menu</p></li>
+                        <li class="tutorial__step"><i class="fa-store fas tutorial__icon" aria-hidden="true"></i><p>Dégustez au restaurant</p></li>
+                    </ol>
             </section>
         <!--restaurants-->
             <section>
@@ -61,7 +66,6 @@
                 <div class="card">
                     <a class="card__link" href="/restaurant-1.html">
                         <img src="public/img/toa-heftiba-DQKerTsQwi0-unsplash.jpg" alt="" class="card__img" />
-                        <span class="card__badge">Nouveau</span>
                         <div class="card__text">
                             <div class="card__content">
                                 <p class="card__title">La palette du goût</p>
@@ -73,7 +77,6 @@
                 <div class="card">
                     <a class="card__link" href="/restaurant-1.html">
                         <img src="public/img/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" alt="" class="card__img" />
-                        <span class="card__badge">Nouveau</span>
                         <div class="card__text">
                             <div class="card__content">
                                 <p class="card__title">La palette du goût</p>

@@ -52,7 +52,7 @@ h1 {
 
 .footer {
   background-color: #353535;
-  padding: 20px;
+  padding: 2rem;
   text-align: left;
 }
 
@@ -98,12 +98,57 @@ h1 {
   align-content: center;
 }
 
-.card-resto {
-  background-color: red;
+.tutorial {
+  padding: 2rem 1rem;
+  display: block;
+}
+.tutorial__title {
+  margin-top: 0;
+}
+.tutorial__steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: compteListe;
+}
+.tutorial__step {
+  padding: 1.5rem;
+  margin: 1rem 0 1rem 0.75rem;
+  box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.125);
+  border-radius: 1.25rem;
+  background-color: #f6f6f6;
+  display: flex;
   position: relative;
-  width: 100%;
-  padding-top: 56.25%;
-  /* 16:9 Aspect Ratio */
+}
+.tutorial__step:before {
+  counter-increment: compteListe 1;
+  content: counter(compteListe) " ";
+  background: #9356dc;
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  position: absolute;
+  left: 0rem;
+}
+.tutorial__icon {
+  margin-right: 1rem;
+  color: #7e7e7e;
+  vertical-align: middle;
+}
+
+.restaurants {
+  background-color: #f6f6f6;
+  padding: 1rem;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  column-gap: 2rem;
+  row-gap: 2rem;
 }
 
 .card {
@@ -155,11 +200,6 @@ h1 {
 }
 .card__like {
   color: black;
-}
-
-body {
-  width: 375px;
-  margin: auto;
 }
 
 /*# sourceMappingURL=style.css.map */

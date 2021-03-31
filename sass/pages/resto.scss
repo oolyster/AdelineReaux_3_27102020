@@ -1,3 +1,30 @@
+.restaurant {
+  padding: 0;
+  margin: 0;
+  display: block;
+  background-color: $background-color;
+
+  &__image {
+    width: 100%;
+    height: auto;
+  }
+
+  &__nom {
+    padding: .5rem 1rem;
+    margin: 0;
+    display: block;
+    background-color: $background-fade;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 3rem;
+  }
+
+  &__title {
+    font-family: $logo;
+    text-align: left;
+    color: $text-color-1;
+  }
+}
+
 .plat {
   padding: 2rem 1rem;
   margin: 0;

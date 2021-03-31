@@ -23,11 +23,18 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-p, a {
+p {
   font-family: Roboto, sans-serif;
   font-size: 1rem;
   color: black;
   font-weight: 400;
+}
+
+a {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  text-decoration: none;
 }
 
 p.light {
@@ -210,6 +217,30 @@ h2 {
   font-size: 1.2rem;
 }
 .card__like {
+  color: black;
+}
+
+.restaurant {
+  padding: 0;
+  margin: 0;
+  display: block;
+  background-color: #ffffff;
+}
+.restaurant__image {
+  width: 100%;
+  height: auto;
+}
+.restaurant__nom {
+  padding: 0.5rem 1rem;
+  margin: 0;
+  display: block;
+  background-color: #f6f6f6;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 3rem;
+}
+.restaurant__title {
+  font-family: Shrikhand, "cursive";
+  text-align: left;
   color: black;
 }
 

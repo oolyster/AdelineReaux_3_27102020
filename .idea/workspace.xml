@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="61471f69-a579-403c-8410-d4e8b315b39d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/restaurant-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-1.html" afterDir="false" />
@@ -103,7 +104,7 @@
       <workItem from="1614692921817" duration="300000" />
       <workItem from="1614804861913" duration="8376000" />
       <workItem from="1615189450276" duration="11000" />
-      <workItem from="1616699036683" duration="11582000" />
+      <workItem from="1616699036683" duration="12654000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1614115792144</created>
@@ -238,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617224540150</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Restaurant v2">
+      <created>1617225606830</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1617225606830</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,10 +316,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="558" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1614885416894" />
-    <state x="660" y="357" key="Vcs.Push.Dialog.v2" timestamp="1617222961586">
+    <state x="660" y="357" key="Vcs.Push.Dialog.v2" timestamp="1617225612386">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="660" y="357" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1617222961586" />
+    <state x="660" y="357" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1617225612386" />
     <state x="880" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1614884570948" />
     <state x="822" y="472" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1614807439047">
       <screen x="0" y="23" width="2560" height="1417" />

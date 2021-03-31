@@ -1,0 +1,37 @@
+.plat {
+  padding: 2rem 1rem;
+  display: block;
+  background-color: $background-fade;
+
+  &__elements {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__element {
+    background-color: $background-color;
+    border-radius: 1rem;
+    position: relative;
+    margin: 1rem 0 0 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.20);
+    font-family: $police;
+    font-size: 1rem;
+    color: $text-color-1;
+    font-weight: 400;
+  }
+
+  &__nom {
+    font-weight: 500;
+  }
+
+  &__description {
+    font-size: 0.9rem;
+    font-weight: 300;
+  }
+
+  &__prix {
+    font-weight: 500;
+    float: right;
+  }
+}
